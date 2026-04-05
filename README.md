@@ -1,8 +1,9 @@
 
 # Entrega de la práctica 2 de Seminario de Python.
-
-  Alumna- Katerina Zanek
-  Legajo- 25677/9
+  
+  *Alumna: Katerina Zanek
+  
+  *Legajo: 25677/9  
   
 ## ⚙️ Requisitos
 
