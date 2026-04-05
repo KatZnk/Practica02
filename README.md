@@ -17,8 +17,8 @@ Para configurar el proyecto y preparar el entorno virtual desde tu terminal:
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone <URL_DE_TU_REPOSITORIO>
-   cd nombre-de-tu-carpeta
+   git clone <https://github.com/KatZnk/Practica02.git>
+   cd Practica02
    ```
 
 2. **Crear y activar el entorno virtual (.venv):**
